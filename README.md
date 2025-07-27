@@ -12,12 +12,12 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm currently pursuing a degree in **Computer Science** at UFAL (Brazil)
--  I love exploring the intersection between **Social problems and Technology**
+-  I love exploring the intersection between **Social issues and Technology**
 -  I'm a student leader, speaker and passionate about building tech communities!
 - 🧠 Currently diving deeper into:
   - Artificial Intelligence in Education
   - Legal Informatics and Digital Law
-  - Full Stack Techs
+  - Full Stack Development
 
 ---
 
