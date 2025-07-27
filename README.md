@@ -12,21 +12,22 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm currently pursuing a degree in **Computer Science** at UFAL (Brazil)
-- 🧩 I love exploring the intersection between **Law and Technology**
+-  I love exploring the intersection between **Social problems and Technology**
+-  I'm a student leader, speaker and passionate about building tech communities!
 - 🧠 Currently diving deeper into:
   - Artificial Intelligence in Education
   - Legal Informatics and Digital Law
-  - Formal Methods & Computability
-- 🎤 I'm a student leader, speaker and passionate about building tech communities!
+  - Full Stack Techs
 
 ---
 
 ### 🌱 Projects & Interests
 
-- ⚖️ Co-founder of **LADIGI - UFAL**, the first Digital Law & Computing League at my university
--  IEEE Member
+
 - 🤖 Developing apps focused on **mental health and productivity**
-- 🏆 Winner of an estadual hackathon with an interdisciplinary team
+- 🏆 Winner of an estadual hackathon with my project called Guardian
+- 🌐 IEEE regional Leadership
+- ⚖️ Co-founder of **LADIGI - UFAL**, the first Digital Law & Computing League at my university
 
 ---
 
@@ -55,15 +56,14 @@
 ### ✨ Fun Facts
 
 - 🧘‍♀️ I do yoga and love painting when I’m not coding
-- 🍳 I’m the chef among my friends — cooking brings me joy
 - 🤝 I love organizing events that connect people and ideas
 
 ---
 
 ### 📫 How to reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taisalima)
-[![Email](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:taisa.lima.silva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taisa-lima)
+[![Email](https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:taisalima@ieee.org)
 
 ---
 
